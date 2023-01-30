@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Likitha k s</h1>
 
 <h3 align="center">A passionate frontend developer from India</h3>
-
+ 
+ <img align="right" alt="Coding" width="400" src="  ">
 - 🔭 I’m currently working on **Phyton**
 
 - 🌱 I’m currently learning **Phyton**
